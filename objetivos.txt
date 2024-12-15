@@ -1,3 +1,4 @@
 1. Poder entregar todos los trabajo en tiempo y forma, sin abusar de herramientas exteriores y haciendolo manualmente entendiendolo.
 2. Llegar a las clases con sus apuntes correspondientes ya leídos y videos ya vistos, además de asistir el máximo posible a las clases.
 3. Trabajar en un proyecto privado con las herramientas que nos van dando, no demasiado complejo y poder dedicarle 4 a 8 horas semanales
+4. Unirme a comunidades de desarrolladores y hacer ejercicios de programción en páginas recomendadas para involucrarme más en este mundo
